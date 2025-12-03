@@ -1,0 +1,11 @@
+{
+  "nombre": "Cartridge 1",
+  "nombre_original": "Cartridge 1",
+  "sistema": "ALF TV Game",
+  "year": null,
+  "genres": [
+    "Unknown"
+  ],
+  "publisher": "Unknown",
+  "tiene_review": false
+}
